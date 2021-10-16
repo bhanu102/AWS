@@ -20,7 +20,7 @@ Uploading a image to s3 over the internet.
                 "s3:GetObject",
                 "s3:PutObjectAcl"
             ],
-            "Resource": "arn:aws:s3:::bhanu-uploads/*"
+            "Resource": "arn:aws:s3:::bucket-name/*"
         }
     ]
 }
