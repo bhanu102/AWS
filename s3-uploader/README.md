@@ -1,6 +1,6 @@
 # S3-Uploader
 
-Uploading a image to s3 over the internet.
+Uploading an image to s3 over the internet.
 
 ## Steps
 
